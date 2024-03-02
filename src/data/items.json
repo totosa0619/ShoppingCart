@@ -1,0 +1,160 @@
+[
+    {
+        "id": 1,
+        "name": "Sea",
+        "price": 14.99,
+        "imag": "images/1.jpg"
+
+    },
+    {
+        "id": 2,
+        "name": "Sea",
+        "price": 16,
+        "imag": "images/2.jpg"
+
+    },
+    {
+        "id": 3,
+        "name": "Sea",
+        "price": 7,
+        "imag": "images/3.jpg"
+        
+    },
+    {
+        "id": 4,
+        "name": "Sea",
+        "price": 15.45,
+        "imag": "images/4.jpg"
+
+    },
+    {
+        "id": 5,
+        "name": "Sea",
+        "price": 6,
+        "imag": "images/5.png"
+
+    },
+    {
+        "id": 6,
+        "name": "Sea",
+        "price": 25.58,
+        "imag": "images/6.jpg"
+
+    },
+    {
+        "id": 7,
+        "name": "Sea",
+        "price": 14.99,
+        "imag": "./images/1.jpg"
+
+    }, {
+        "id": 8,
+        "name": "Sea",
+        "price": 14.99,
+        "imag": "./images/4.jpg"
+
+    }, {
+        "id": 9,
+        "name": "Sea",
+        "price": 14.99,
+        "imag": "./images/2.jpg"
+
+    }, {
+        "id": 10,
+        "name": "Sea",
+        "price": 14.99,
+        "imag": "./images/1.jpg"
+
+    }, {
+        "id": 11,
+        "name": "Sea",
+        "price": 14.99,
+        "imag": "./images/1.jpg"
+
+    }, {
+        "id": 12,
+        "name": "Sea",
+        "price": 14.99,
+        "imag": "./images/1.jpg"
+
+    }, {
+        "id": 13,
+        "name": "Sea",
+        "price": 14.99,
+        "imag": "./images/1.jpg"
+
+    }, {
+        "id": 14,
+        "name": "Sea",
+        "price": 14.99,
+        "imag": "./images/3.jpg"
+
+    }, {
+        "id": 15,
+        "name": "Sea",
+        "price": 14.99,
+        "imag": "./images/1.jpg"
+
+    }, {
+        "id": 16,
+        "name": "Sea",
+        "price": 14.99,
+        "imag": "./images/1.jpg"
+
+    }, {
+        "id": 17,
+        "name": "Sea",
+        "price": 14.99,
+        "imag": "./images/2.jpg"
+
+    }, {
+        "id": 18,
+        "name": "Sea",
+        "price": 14.99,
+        "imag": "./images/5.jpg"
+
+    }, {
+        "id": 19,
+        "name": "Sea",
+        "price": 14.99,
+        "imag": "./images/1.jpg"
+
+    }, {
+        "id": 20,
+        "name": "Sea",
+        "price": 14.99,
+        "imag": "./images/4.jpg"
+
+    }, {
+        "id": 21,
+        "name": "Mountain",
+        "price": 14.99,
+        "imag": "./images/1.jpg"
+
+    }, {
+        "id": 22,
+        "name": "Mountain",
+        "price": 14.99,
+        "imag": "./images/6.jpg"
+
+    }, {
+        "id": 23,
+        "name": "Mountain",
+        "price": 14.99,
+        "imag": "./images/1.jpg"
+
+    }, {
+        "id": 24,
+        "name": "Sea",
+        "price": 14.99,
+        "imag": "./images/1.jpg"
+
+    }, {
+        "id": 25,
+        "name": "Sea",
+        "price": 14.99,
+        "imag": "./images/2.jpg"
+
+    }
+
+]
